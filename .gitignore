@@ -1,0 +1,12 @@
+# Ignoră fișierele și directoarele de Visual Studio
+.vs/
+*.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignoră directoarele de build și dependințele
+bin/
+obj/
+packages/
